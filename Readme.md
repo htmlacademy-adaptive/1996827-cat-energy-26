@@ -1,6 +1,6 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Konstantin Ustyugov](https://up.htmlacademy.ru/htmlcss/34/user/1996827). :smirk_cat:
+* Студент: [Konstantin Ustyugov](https://htmlacademy.ru//profile/id1996827). :smirk_cat:
 * Наставник: [Михаил Данюшин](https://htmlacademy.ru/profile/id225742). :smiling_imp: 
 
 ---
